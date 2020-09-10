@@ -13,9 +13,9 @@
 
    ![](../images/workshop_choosequery.png)
   
-* Dashbord will not show at first. There is error when creating dashboard due to datatype miss match in dataset sumarry_view 
+* Dashbord will not show at first. There is error when creating dashboard due to datatype miss match in dataset `sumarry_view`
 
-   Field ri_sp_trueup and ri_sp_upfront_fees should be *DECIMAL*
+   Field `ri_sp_trueup` and `ri_sp_upfront_fees` should be **DECIMAL**
 
    ```
             "Errors": [
@@ -29,5 +29,10 @@
                 }
             ],
    ```
+   
+     To change that, click `sumarry_view` in the QuickSight Dataset, click "Edit data set" button and then change data type for those two fields.
+     
+     
+   
 
 
