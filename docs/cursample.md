@@ -38,5 +38,7 @@ After that, follow the instruction below.
    aws s3 mb s3://$CUR_S3_BUCKET
    ```
 4. Open [S3 Console](https://s3.console.aws.amazon.com/s3/home) and explore the bucket created.
+
+[BACK TO WORKSHOP GUIDE](../README.md)
    
     
