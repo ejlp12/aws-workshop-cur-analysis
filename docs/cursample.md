@@ -1,4 +1,10 @@
+## COPY SAMPLE CUR FILES TO S3
+
 In this workshop, you will skip the [CONFIGURE COST AND USAGE REPORTS steps](https://wellarchitectedlabs.com/cost/100_labs/100_1_aws_account_setup/3_cur/) because you are using EventEngine account. If you are doing the lab using your own AWS account, then you can follow those steps.
+
+Since you are not enabling CUR and will not getting any CUR files in your S3 bucket, you can just read this [VERIFY YOUR CUR FILES ARE BEING DELIVERED](https://wellarchitectedlabs.com/cost/200_labs/200_4_cost_and_usage_analysis/1_verify_cur/) step (but don't follow the instrauction).
+
+After that, follow the instruction below.
 
 1. Run this command in your Cloud9 IDE to create and copy sample CUR files. Change `yourname` to your real name
     ```
