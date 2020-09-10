@@ -1,6 +1,6 @@
 * This following query is not correct
   
-  ![](ri_check_query.png)
+  ![](../images/ri_check_query.png)
   
   It should be changed to this:
   ```
@@ -11,7 +11,7 @@
   
 * Since you are using sample CUR files in this workshop, there should be **no Savings Plans** but **it has Reserved Instances data**, so please select the correct query for creating Views accordingly.
 
-   ![](workshop_choosequery.png)
+   ![](../images/workshop_choosequery.png)
   
 * Dashbord will not show at first. There is error when creating dashboard due to datatype miss match in dataset sumarry_view 
 
