@@ -8,7 +8,7 @@
 
 * Part **Elasticity**, number 3: New versin of QuickSight UI (screenshoot) for "Add calculated field"
    
-   ![](images/quicksight_calculatedfield.png)
+   ![](../images/quicksight_calculatedfield.png)
    
 * Part **Elasticity**, number 22: click exclude on the legend (not the line)
 
