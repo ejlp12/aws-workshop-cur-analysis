@@ -8,6 +8,8 @@
    
    ![](../images/athena_setting.png)
   
-* Step 3 "COST AND USAGE ANALYSIS, part "Savings Plans, Reserved Instance, On Demand and Spot Usage" number 1 & 2: There is no column name contains "savings" in the table, because the sample CUR files doesn't contain any Saving Plans data. You can ignore the error or skip the query execution.
+* Step 3 "COST AND USAGE ANALYSIS, part "Savings Plans, Reserved Instance, On Demand and Spot Usage" number 1 & 2: There is no column name contains "savings" in the table, because the sample CUR files doesn't contain any Saving Plans data. 
+  
+   You can ignore the error or skip the query execution.
 
   
