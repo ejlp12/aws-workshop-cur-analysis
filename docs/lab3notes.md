@@ -12,6 +12,13 @@
 * Since you are using sample CUR files in this workshop, there should be **no Savings Plans** but **it has Reserved Instances data**, so please select the correct query for creating Views accordingly.
 
    ![](../images/workshop_choosequery.png)
+   
+* When you do **View 1 - Summary View** and get error when executing query. 
+  Try to change empty string ('') to space (' ') or any character e.g. '-' in line 22:
+
+   ```
+     WHEN ("reservation_reservation_a_r_n" <> ' ') THEN "reservation_reservation_a_r_n" ELSE ' ' END "ri_sp_arn"
+   ```
   
 * Dashbord will not show at first. There is error when creating dashboard due to datatype miss match in dataset `sumarry_view`
 
