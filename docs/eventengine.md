@@ -28,4 +28,4 @@ Here there are instructions for CLI credentials, but this will not be needed as 
 
 Please let the event staff know if you have any difficulty.
 
-[BACK TO WORKSHOP GUIDE](README.md)
+[BACK TO WORKSHOP GUIDE](../README.md)
