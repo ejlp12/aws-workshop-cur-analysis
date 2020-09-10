@@ -1,7 +1,7 @@
 ## LAB2 (CREATE VISUALIZATION) Notes
 
 * Part **Cost by account and product**, number 1 to 2: Change the Visual Types to “Horizontal bar chart”
-  ![](images/quicksight_changevisualtype.png)
+  ![](../images/quicksight_changevisualtype.png)
 * Part **Cost by account and product**, number 9: Click exclude on the Legend (not the line)
 
 * Part **Elasticity**, number 3: New versin of QuickSight UI (screenshoot) for "Add calculated field"
