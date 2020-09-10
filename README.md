@@ -1,5 +1,8 @@
 ## Using QuickSight, Athena & Glue for AWS Cost & Usage Analysis Workshop
 
+Link to this page: 
+# http://bit.ly/cur-workshop
+
 ### Workshop Agenda:
 
 * Presentation (30 minutes)
