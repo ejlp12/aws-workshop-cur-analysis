@@ -27,3 +27,5 @@ Click the ‘Open AWS Console’ button to open the AWS Console.
 Here there are instructions for CLI credentials, but this will not be needed as todays workshop uses the Cloud9 console and IDE as an administrative environment.
 
 Please let the event staff know if you have any difficulty.
+
+[BACK TO WORKSHOP GUIDE](README.md)
