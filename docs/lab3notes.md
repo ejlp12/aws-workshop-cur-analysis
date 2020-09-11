@@ -16,16 +16,16 @@
 * When you do **View 1 - Summary View** and get error when executing query. 
   Try to change empty string ('') to space (' ') or any character e.g. '-' in line 22:
 
-   ```
-     WHEN ("reservation_reservation_a_r_n" <> ' ') THEN "reservation_reservation_a_r_n" ELSE ' ' END "ri_sp_arn"
-   ```
+  ```
+  WHEN ("reservation_reservation_a_r_n" <> ' ') THEN "reservation_reservation_a_r_n" ELSE ' ' END "ri_sp_arn"
+  ```
    
 * On number 7 "Click here - if you do not see your dashboard", there is a typo on the second command:
 
-        ```
-        aws quicksight describe-dashboard --aws-account-id (YOUR ACCOUNT ID) --dashboard-id cost__intelligence_dashboard --region (region)
-        ```
-   It should be: `cost_intelligence_dashboard`  
+  ```
+  aws quicksight describe-dashboard --aws-account-id (YOUR ACCOUNT ID) --dashboard-id cost__intelligence_dashboard --region (region)
+  ```
+  It should be: `cost_intelligence_dashboard`  
 
   
 * Dashbord will not show at first. There is error when creating dashboard due to datatype miss match in dataset `sumarry_view`
