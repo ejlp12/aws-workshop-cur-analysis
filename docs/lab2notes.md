@@ -14,7 +14,7 @@
 
 * Part **Cost by line item description**, number 7 don't filter the date by today because the data is in year 2018 and month 10 until 12 (not 2020 month 9). Suggestion by time range between and input start and end date instead
 
-   ![../images//quicksight_datefilter.png]
+   ![](../images//quicksight_datefilter.png)
 
 * Need to add user first so that you are able to share Analysis.
   - Click Admin icon on the top right-hand side, select Manage QuickSight
