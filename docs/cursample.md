@@ -31,7 +31,7 @@ After that, follow the instruction below.
     2020-09-08 20:07:42    1565532 Nov2018-WorkshopCUR-00001.snappy.parquet
     2020-09-08 20:07:42    1118918 Dec2018-WorkshopCUR-00001.snappy.parquet
     ```
-2. Create an S3 bucket for Athena query result for later use. Change `yourname` to your real name
+2. Create an S3 bucket for Athena query result for later use (in LAB-1). Change `yourname` to your real name
 
    ```
    ATHENA_RESULT_S3_BUCKET=yourname-curworkshop-athena-result
