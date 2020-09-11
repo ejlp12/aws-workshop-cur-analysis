@@ -2,7 +2,8 @@
 
 * Step 2 "USE AWS GLUE TO ENABLE ACCESS TO CUR FILES VIA AMAZON ATHENA", number 23: You need to spesify S3 bucket for Athena query result.
   
-   In the Athena page, Click "Settings" on the top right page then specify S3 Bucket path (s3://yourname-curworkshop-athena-result/) 
+   In the Athena page, Click "Settings" on the top right page then specify S3 Bucket path (s3://yourname-curworkshop-athena-result/).
+   You must have created the S3 bucket as mention in the [step #2 after you copy CUR files](docs/cursample.md)
    
    ![](../images/athena_settingmenu.png)
    
