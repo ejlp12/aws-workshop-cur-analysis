@@ -18,7 +18,7 @@
     
 5. We should configure our aws cli with our current region as default. Run this command in your terminal:
     ```
-    export AWS_REGION="eu-west-1"
+    export AWS_REGION="eu-east-1"
     echo "export AWS_REGION=${AWS_REGION}" >> ~/.bash_profile
     aws configure set default.region ${AWS_REGION}
     aws configure get default.region
