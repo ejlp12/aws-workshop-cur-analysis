@@ -35,7 +35,7 @@ After that, follow the instruction below.
 
    ```
    ATHENA_RESULT_S3_BUCKET=yourname-curworkshop-athena-result
-   aws s3 mb s3://$CUR_S3_BUCKET
+   aws s3 mb s3://$ATHENA_RESULT_S3_BUCKET
    ```
 4. Open [S3 Console](https://s3.console.aws.amazon.com/s3/home) and explore the bucket created.
 
