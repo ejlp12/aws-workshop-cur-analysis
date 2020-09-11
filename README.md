@@ -6,9 +6,9 @@ Link to this page:
 ### Workshop Agenda:
 
 * Presentation (30 minutes)
-    * What is S3, IAM Role & Policy, Athena, Glue, and QuickSight
-        * Demo: AWS Basic using EventEngine, S3 console, IAM console
-    * What is CUR data
+    * What is Cloud9, S3, IAM Role & Policy, Athena, Glue, and QuickSight
+        * Demo: AWS Basic using EventEngine, AWS Console (Cloud9, S3, IAM console)
+    * What is AWS Cost & Usage Report
         * Demo: How to enable CUR & see the folder structure
         * You can also read: https://wellarchitectedlabs.com/cost/100_labs/100_1_aws_account_setup/3_cur/
 * LAB (1.5 hours)
