@@ -28,7 +28,6 @@
     ```
     sudo yum install jq -y
     export ACCOUNT_ID=$(aws sts get-caller-identity|jq -r ".Account")
-    aws quicksight list-data-sets --aws-account-id $ACCOUNT_ID --region ${AWS_REGION}
     ```
     
 [BACK TO WORKSHOP GUIDE](../README.md)   
